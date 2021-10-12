@@ -1,0 +1,1 @@
+from .ip_details import get_ip_information
